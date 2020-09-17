@@ -1,5 +1,5 @@
-# Google-Analytics  
-Duration: 2019/8/26 - 2019/9/26 (1 Month project)   
+# Google AdWords
+Duration: 2020/9/10 - TBD
 
 # Reference
-- [Google Analytics](https://analytics.google.com/analytics/academy/)
+- [Google Adwords I](https://youtu.be/JAT-jxF4et4?list=PLPh89N96p446NsAxXP5ZuuglOUZG_l6-w)
